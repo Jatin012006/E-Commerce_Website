@@ -1,0 +1,90 @@
+* {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #e4e4e4cb;
+}
+
+.container {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+    padding: 20px;
+}
+
+.lefts img {
+    width: 500px;
+    border: 1px solid #ccc;
+}
+
+.lefts button {
+    font-size: 16px;
+    padding: 12px;
+    background-color: #e49227;
+    width: 240px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.rights {
+    gap: 10px;
+}
+.pnet {
+    color: #878787;
+    font-size: 15px;
+}
+
+.men {
+    font-size: 22px;
+}
+
+.sp {
+    color: green;
+}
+
+.cut {
+    text-decoration: line-through;
+}
+
+.rev {
+    color: #878787;
+}
+
+.size span{
+    display: inline-block;
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.off {
+    color: #212121;
+    font-size: 14px;
+}
+
+.ava {
+    font-weight: bold;
+}
+
+.color {
+  margin: 20px;
+  font-size: 18px;
+  color: #000000;
+}
+
+input[type="color"] {
+  width: 90px;
+  height: 35px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  padding: 0;
+}
+
+.label {
+    border: 2px solid;
+    font-size: 23px;
+    border-radius: 8px;
+}

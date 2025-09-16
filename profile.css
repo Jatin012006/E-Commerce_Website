@@ -1,0 +1,125 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+main.bg {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    height: 2000px;
+}
+
+.bar {
+    background-color: black;
+    height: 70px;
+    display: flex;
+    color: white;
+    align-items: center;
+    padding: 0 10px;
+}
+
+.logo {
+    background-image: url("logo1c.png");
+    background-size: cover;
+    background-position: center;
+    height: 60px;
+    width: 100px;
+}
+
+.dev {
+    width: auto;
+    height: 500px;
+    /* border-radius: 60px; */
+}
+
+.lefts {
+    position: absolute;
+    left: 0;
+    margin: 10px;
+    background-color: #C9B79C;
+    padding: 50px;
+    border-radius: 60px;
+    box-shadow: 10px 8px 20px rgba(0,0,0,0.2);
+    
+}
+
+.c2 {
+    position: absolute;
+    right: 0;
+    width: 900px;
+    height: 500px;
+    padding: 50px;
+    border-radius: 60px;
+    box-shadow: 10px 8px 20px rgba(0,0,0,0.2);
+    background-color: #FAF3E0;
+    margin: 10px;
+    color: #4A403A;
+}
+
+.rights {
+    top: 700px;
+    margin-top: 700px;
+    position: absolute;
+    left: 0;
+    margin: 10px;
+    background-color: #C9B79C;
+    padding: 50px;
+    border-radius: 60px;
+    box-shadow: 10px 8px 20px rgba(0,0,0,0.2);
+}
+
+.cfo {
+    width: auto;
+    height: 500px;
+}
+
+.c1 {
+    top: 700px;
+    margin-top: 700px;
+    position: absolute;
+    right: 0;
+    width: 900px;
+    height: 500px;
+    padding: 50px;
+    border-radius: 60px;
+    box-shadow: 10px 8px 20px rgba(0,0,0,0.2);
+    background-color: #FAF3E0;
+    margin: 10px;
+    color: #4A403A;
+}
+
+.coo {
+    width: auto;
+    height: 500px;
+}
+
+.c0 {
+    top: 1350px;
+    margin-top: 1400px;
+    position: absolute;
+    right: 0;
+    width: 900px;
+    height: 500px;
+    padding: 50px;
+    border-radius: 60px;
+    box-shadow: 10px 8px 20px rgba(0,0,0,0.2);
+    background-color: #FAF3E0;
+    margin: 10px;
+    color: #4A403A;
+}
+
+.ryts {
+    top: 1350px;
+    /* margin-top: 1400px; */
+    position: absolute;
+    left: 0;
+    margin: 10px;
+    background-color: #C9B79C;
+    padding: 50px;
+    border-radius: 60px;
+    box-shadow: 10px 8px 20px rgba(0,0,0,0.2);
+}

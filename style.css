@@ -1,0 +1,41 @@
+* {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #a4a2a2;
+}
+
+.h1 {
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 5px 15px;
+    background-color: rgb(94, 97, 101);
+
+}
+
+select {
+    background-color: #7b7676;
+    font-size: 20px;
+    margin: 10px;
+    color: rgba(237, 226, 205, 0.863);
+    border: 1px solid;
+    border-color: black;
+    border-radius: 8px;
+    width: 350px;
+}
+
+.order {
+    background-color: #000000;
+    color: white;
+    border-radius: 8px;
+    width: 350px;
+    height: 40px;
+}
+
+.p {
+    font-size: 25px;
+}
+
+.img {
+    border-radius: 8px;
+    border: solid 2px;
+}
