@@ -15,7 +15,7 @@ This project includes a home page, sign-in page, and product pages for demo clot
 
 ## How to run
 1. Download or clone this repo.
-2. Open `index.html` in a browser to view the site.
+2. Open `pnet.html` in a browser to view the site.
 
 ## Screenshots
 *(You can add screenshots here by uploading .png/.jpg into the repo and embedding with `![](filename.png)`)*
